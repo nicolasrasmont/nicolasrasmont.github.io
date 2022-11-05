@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center" width="100%">
-    <img width="33%" src="/images/monte-carlo_result_epsilon_10_sigeps_10.svg"> 
+    <img width="100%" src="/images/monte-carlo_result_epsilon_10_sigeps_10.svg"> 
 </p>
 <center><b> Fig.2 - Saucisse</b></center>
 =====
