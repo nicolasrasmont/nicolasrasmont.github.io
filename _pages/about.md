@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-| ![test](monte-carlo_result_epsilon_10_sigeps_10.svg) |
+| ![test](/images/monte-carlo_result_epsilon_10_sigeps_10.svg) |
 |:--:|
 | <b> Fig.2 - Saucisse</b>|
 
